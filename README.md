@@ -11,6 +11,9 @@ Short dates should be ISO format: YYYY-MM-DD with leading zeroes.
 Long dates are dd (with ordinal) MMMM YYYY: 08th February 2023.
 Academic years as YYYY/YY with a slash: 2023/24 not 2023-24 or 2023/4.
 
+## Scientific Terms
+Ultraviolet and infrared without hyphens or spaces. "UV" and "IR" for short.
+
 ## Spelling
 Zeroes with an 'e' not zeros.
 Focused with one 's' rather than focussed.
